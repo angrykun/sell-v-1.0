@@ -1,6 +1,6 @@
 # sell-v-1.0
 
-> sell production version 1.0
+> sell production version 1.0 模仿饿了么视频 vue 1.x + vue-router 1.x + vue-rescorce
 
 ## Build Setup
 
