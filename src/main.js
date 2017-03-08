@@ -30,9 +30,7 @@ router.map({
 		component:seller
 	}
 })
-
-console.log(router)
-
+ 
 router.start(app,'#app')
 
 router.go('/goods')
